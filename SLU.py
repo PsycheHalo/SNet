@@ -1,3 +1,6 @@
+import torch
+import math
+
 class SLU(torch.nn.Module):
     def __init__(self,in_features,out_features,bias=True,gain=1,keepNorm=False,**kwargs):
         super(SLU, self).__init__()
