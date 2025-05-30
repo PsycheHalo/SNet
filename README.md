@@ -1,5 +1,5 @@
 # SNet
-A specially designed architecture for efficient training of ultra-deep neural networks without normalization and skip connections
+A specially designed architecture for efficient training of ultra-deep neural networks without skip connections
 ![image](./newplot.png)
 
 ## 核心思路
